@@ -1,0 +1,10 @@
+C:\Users\Lenovo\Desktop\#peraCode\sharpGames\CSMS\CSMSRepository\bin\Debug\CSMSRepository.dll
+C:\Users\Lenovo\Desktop\#peraCode\sharpGames\CSMS\CSMSRepository\bin\Debug\CSMSRepository.pdb
+C:\Users\Lenovo\Desktop\#peraCode\sharpGames\CSMS\CSMSRepository\obj\Debug\CSMSRepository.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\#peraCode\sharpGames\CSMS\CSMSRepository\obj\Debug\CSMSRepository.dll
+C:\Users\Lenovo\Desktop\#peraCode\sharpGames\CSMS\CSMSRepository\obj\Debug\CSMSRepository.pdb
+C:\Users\Lenovo\Desktop\#Project\CSMS\CSMSRepository\bin\Debug\CSMSRepository.dll
+C:\Users\Lenovo\Desktop\#Project\CSMS\CSMSRepository\bin\Debug\CSMSRepository.pdb
+C:\Users\Lenovo\Desktop\#Project\CSMS\CSMSRepository\obj\Debug\CSMSRepository.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\#Project\CSMS\CSMSRepository\obj\Debug\CSMSRepository.dll
+C:\Users\Lenovo\Desktop\#Project\CSMS\CSMSRepository\obj\Debug\CSMSRepository.pdb

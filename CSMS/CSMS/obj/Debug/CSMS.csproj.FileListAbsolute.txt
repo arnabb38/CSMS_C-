@@ -1,0 +1,9 @@
+C:\Users\Lenovo\Desktop\#peraCode\sharpGames\CSMS\CSMS\bin\Debug\CSMS.exe.config
+C:\Users\Lenovo\Desktop\#peraCode\sharpGames\CSMS\CSMS\bin\Debug\CSMS.exe
+C:\Users\Lenovo\Desktop\#peraCode\sharpGames\CSMS\CSMS\bin\Debug\CSMS.pdb
+C:\Users\Lenovo\Desktop\#peraCode\sharpGames\CSMS\CSMS\obj\Debug\CSMS.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\#peraCode\sharpGames\CSMS\CSMS\obj\Debug\CSMS.Form1.resources
+C:\Users\Lenovo\Desktop\#peraCode\sharpGames\CSMS\CSMS\obj\Debug\CSMS.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\#peraCode\sharpGames\CSMS\CSMS\obj\Debug\CSMS.csproj.GenerateResource.Cache
+C:\Users\Lenovo\Desktop\#peraCode\sharpGames\CSMS\CSMS\obj\Debug\CSMS.exe
+C:\Users\Lenovo\Desktop\#peraCode\sharpGames\CSMS\CSMS\obj\Debug\CSMS.pdb
